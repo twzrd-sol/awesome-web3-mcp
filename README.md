@@ -26,6 +26,7 @@ MCP is an open protocol that standardizes how apps connect with AI models. As mo
 ### Production-Ready
 
 - [Base-MCP](https://github.com/base/base-mcp) - A Model Context Protocol (MCP) server that provides onchain tools for AI applications like Claude Desktop and Cursor, allowing them to interact with the Base Network and Coinbase API.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification MCP server for AI agents on Solana. Free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Paid: `get_trust_receipt` (HTTP 402 + USDC).
 
 ### Experimental
 
